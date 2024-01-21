@@ -1,0 +1,1 @@
+printInfo.o: ../printInfo.cpp
